@@ -24,3 +24,4 @@ let state; // undefined
 console.log(typeof "Deepa")
 console.log(typeof age)
 console.log(typeof null) // object
+console.log(typeof undefined) // undefined
